@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   identityhelm:
   - apiVersion: v2
+    appVersion: 1.3.15
+    created: "2026-07-10T04:31:03.228729501Z"
+    description: A Helm chart for Kubernetes
+    digest: a9a44ce8d27790859fda211be7e5d24214fad69ff49df8f2fe1c855b8cac434a
+    name: identityhelm
+    type: application
+    urls:
+    - identityhelm-1.3.18.tgz
+    version: 1.3.18
+  - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-10T03:45:21.810266467Z"
+    created: "2026-07-10T04:31:03.228638624Z"
     description: A Helm chart for Kubernetes
     digest: feb81c06636f0c092001fae293dafac62ca3616d6048d3286f52578a44ad368a
     name: identityhelm
@@ -13,7 +23,7 @@ entries:
     version: 1.3.17
   - apiVersion: v2
     appVersion: 1.3.15
-    created: "2026-07-10T03:45:21.810184264Z"
+    created: "2026-07-10T04:31:03.228542787Z"
     description: A Helm chart for Kubernetes
     digest: 244d007aa4dc149130694b852b866d2b5fccf3fe94a134f949f836183907d419
     name: identityhelm
@@ -23,7 +33,7 @@ entries:
     version: 1.3.16
   - apiVersion: v2
     appVersion: 1.3.14
-    created: "2026-07-10T03:45:21.810097478Z"
+    created: "2026-07-10T04:31:03.228447951Z"
     description: A Helm chart for Kubernetes
     digest: eccaa5f679db51c549a758661878f3e62d895b37d18607440a8590acb3a3ae43
     name: identityhelm
@@ -33,7 +43,7 @@ entries:
     version: 1.3.15
   - apiVersion: v2
     appVersion: 1.3.14
-    created: "2026-07-10T03:45:21.810008734Z"
+    created: "2026-07-10T04:31:03.228355782Z"
     description: A Helm chart for Kubernetes
     digest: 3450de2dbd429e2908fe0f91561e8d9146f663d8edbf7fbfedfddeb9c797562e
     name: identityhelm
@@ -43,7 +53,7 @@ entries:
     version: 1.3.14
   - apiVersion: v2
     appVersion: 1.3.12
-    created: "2026-07-10T03:45:21.80988391Z"
+    created: "2026-07-10T04:31:03.228252904Z"
     description: A Helm chart for Kubernetes
     digest: fba72eb9d6fd70d36851afa6d3cf9b075e0e91ebd5e8b7d195f807db9cd3c8e9
     name: identityhelm
@@ -53,7 +63,7 @@ entries:
     version: 1.3.12
   - apiVersion: v2
     appVersion: 1.3.11
-    created: "2026-07-10T03:45:21.809772001Z"
+    created: "2026-07-10T04:31:03.228136192Z"
     description: A Helm chart for Kubernetes
     digest: 697e8a61c64d7784a3e5a7b567e15ceed2f38efa7783f08445f4db9bdf333006
     name: identityhelm
@@ -61,4 +71,4 @@ entries:
     urls:
     - identityhelm-1.3.11.tgz
     version: 1.3.11
-generated: "2026-07-10T03:45:21.80954235Z"
+generated: "2026-07-10T04:31:03.227860976Z"
